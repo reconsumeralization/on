@@ -36,8 +36,8 @@ importers:
         specifier: ^6.0.1
         version: 6.0.1
       '@codemirror/lang-markdown':
-        specifier: ^6.2.5
-        version: 6.2.5
+        specifier: ^6.3.0
+        version: 6.3.0
       '@codemirror/lang-python':
         specifier: ^6.1.6
         version: 6.1.6(@codemirror/view@6.28.4)
@@ -537,8 +537,8 @@ packages:
   '@codemirror/lang-json@6.0.1':
     resolution: {integrity: sha512-+T1flHdgpqDDlJZ2Lkil/rLiRy684WMLc74xUnjJH48GQdfJo/pudlTRreZmKwzP8/tGdKf83wlbAdOCzlJOGQ==}
 
-  '@codemirror/lang-markdown@6.2.5':
-    resolution: {integrity: sha512-Hgke565YcO4fd9pe2uLYxnMufHO5rQwRr+AAhFq8ABuhkrjyX8R5p5s+hZUTdV60O0dMRjxKhBLxz8pu/MkUVA==}
+  '@codemirror/lang-markdown@6.3.0':
+    resolution: {integrity: sha512-lYrI8SdL/vhd0w0aHIEvIRLRecLF7MiiRfzXFZY94dFwHqC9HtgxgagJ8fyYNBldijGatf9wkms60d8SrAj6Nw==}
 
   '@codemirror/lang-python@6.1.6':
     resolution: {integrity: sha512-ai+01WfZhWqM92UqjnvorkxosZ2aq2u28kHvr+N3gu012XqY2CThD67JPMHnGceRfXPDBmn1HnyqowdpF57bNg==}
@@ -5601,7 +5601,7 @@ snapshots:
       '@codemirror/language': 6.10.2
       '@lezer/json': 1.0.2
 
-  '@codemirror/lang-markdown@6.2.5':
+  '@codemirror/lang-markdown@6.3.0':
     dependencies:
       '@codemirror/autocomplete': 6.17.0(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.4)(@lezer/common@1.2.1)
       '@codemirror/lang-html': 6.4.9
